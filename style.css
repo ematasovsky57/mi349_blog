@@ -4,7 +4,8 @@ html{
 body{
     background: #e3e3e3;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 125pix;
+    margin: 40px;
+    padding: 40px;
     color: rgb(255, 68, 11);
     border-top: 10px solid rgb(255, 68, 11);
 }
