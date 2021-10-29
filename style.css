@@ -30,6 +30,9 @@ h4{
 ul {
     list-style: square;
 }
+a[href="https://twitter.com/E_Matasovsky57"]{
+    color: gold;
+}
 #blog {
     border-top: 1px dotted slateblue;
 }
