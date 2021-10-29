@@ -15,15 +15,20 @@ h1{
 }
 p{
     line-height: 1.5em;
+
 }
 h2{
     font-size: 3em;
 }
 h3{
     font-size: 2em;
+    
 }
 h4{
     font-size: 2em;
+}
+ul {
+    list-style: square;
 }
 #blog {
     border-top: 1px dotted slateblue;
