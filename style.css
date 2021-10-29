@@ -1,3 +1,7 @@
 body{
     background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 42pix;
+    color: rgb(255, 68, 11);
+    border-top: 10px solid rgb(255, 68, 11);
 }
