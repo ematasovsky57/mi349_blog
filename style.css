@@ -10,12 +10,16 @@ body{
     border-top: 10px solid rgb(255, 68, 11);
 }
 header{
-    background: green;
+    background: seagreen;
     position: sticky;
     top:0;
 }
 section{
     display: flex;
+}
+article{
+    padding: 20px;
+    margin: 20px;
 }
 h1{
     font-size: 3em;
