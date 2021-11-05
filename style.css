@@ -38,10 +38,10 @@ section{
     float: right;
     margin: 0 0 10px 10px;
     padding: 10px;
-    border-top: 1px solid #999;
-    border-right: 2px solid #555;
-    border-bottom: 2px solid #555;
-    border-left: 1px solid #999;
+    border-top: 15px solid #999;
+    border-right: 20px solid #555;
+    border-bottom: 20px solid #555;
+    border-left: 15px solid #999;
 }
 div.img-container img
 {
