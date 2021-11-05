@@ -9,6 +9,10 @@ body{
     color: rgb(255, 68, 11);
     border-top: 10px solid rgb(255, 68, 11);
 }
+header{
+    background: green;
+    position: sticky;
+}
 h1{
     font-size: 3em;
     margin: 0;
