@@ -36,7 +36,15 @@ section{
     height: 300px;
     width: 300px;
     float: right;
-    margin: 10px;
+    margin: 0 0 10px 10px;
+    padding: 10px;
+}
+div.img-container img
+{
+border-top: 2px solid #555;
+border-right: 1px solid #999;
+border-bottom: 1px solid #999;
+border-left: 2px solid #555;
 }
 h1{
     font-size: 3em;
