@@ -9,6 +9,9 @@ body{
     color: rgb(255, 68, 11);
     border-top: 10px solid rgb(255, 68, 11);
 }
+header{
+    margin: 10px;
+}
 .stickyarea{
     background: seagreen;
     position: sticky;
@@ -35,7 +38,6 @@ h2{
     font-size: 2em;
 }
 h3{
-    margin: 10px;
     font-size: 2em;
     
 }
