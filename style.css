@@ -26,6 +26,11 @@ section{
     display: flex;
     border-bottom: 1px dotted #a00f0f;
 }
+.meet-me{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+}
 h1{
     font-size: 3em;
     margin: 0;
