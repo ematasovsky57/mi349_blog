@@ -9,7 +9,7 @@ body{
     color: rgb(255, 68, 11);
     border-top: 10px solid rgb(255, 68, 11);
 }
-header{
+.stickyarea{
     background: seagreen;
     position: sticky;
     top:0;
@@ -21,8 +21,6 @@ section{
     padding: 20px;
     margin: 20px;
     display: flex;
-}
-
 }
 h1{
     font-size: 3em;
