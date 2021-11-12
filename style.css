@@ -79,7 +79,7 @@ a[href="https://twitter.com/E_Matasovsky57"]{
 }
 
 @media (max-width:800px){
-    #c1{
-        background: red;
+    .cards{
+        flex-direction: column;
     }
 }
