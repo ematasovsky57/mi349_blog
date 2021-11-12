@@ -82,4 +82,14 @@ a[href="https://twitter.com/E_Matasovsky57"]{
     .cards{
         flex-direction: column;
     }
+    .meet-me{
+        flex-direction: column;
+    }
+    section{
+        flex-direction: column;
+    }
+    .blog-post{
+        flex-direction: column;
+    }
+    
 }
