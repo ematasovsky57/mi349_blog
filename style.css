@@ -78,7 +78,7 @@ a[href="https://twitter.com/E_Matasovsky57"]{
     border-top: 1px dotted slateblue;
 }
 
-@media (max-width:800px){
+@media (max-width:400px){
     .cards{
         flex-direction: column;
     }
